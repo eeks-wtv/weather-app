@@ -1,9 +1,28 @@
 Weather App
+Introduction:
 
-A simple desktop weather app built with PyQt5 and the OpenWeatherMap API. Enter a city name and get the current temperature, a short description, and a matching weather emoji.
+Checking the weather often means digging through cluttered websites or apps full of ads and unnecessary information. This project aims to offer a simple, distraction-free desktop application that gives users the current weather for any city in just a few clicks. The app focuses on a clean, visually pleasant interface paired with fast, reliable data from a live weather API.
 
-Features
-Search current weather by city name
-Displays temperature (°C), description, and a weather emoji
-Clean, styled UI with a gradient background and card layout
-Handles common errors (invalid city, bad API key, connection issues, etc.)
+Technical Details
+Key Features:
+
+City Search:
+
+Text input for entering any city name
+
+Weather Display:
+
+Current temperature (°C)
+Weather description (e.g. light rain, clear sky)
+Weather emoji representing current conditions
+
+Error Handling:
+
+Friendly messages for invalid cities, bad API responses, and connection issues
+Platform:
+
+Language: Python
+
+GUI Framework: PyQt5
+
+API: OpenWeatherMap
