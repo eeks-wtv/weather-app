@@ -2,7 +2,7 @@
 
 ## Introduction:
 
-Checking the weather often means digging through cluttered websites or apps full of ads and unnecessary information. This project aims to offer a simple, distraction-free desktop application that gives users the current weather for any city in just a few clicks. The app focuses on a clean, visually pleasant interface paired with fast, reliable data from a live weather API.
+Made this weather for experience using API keys and related tasks
 
 ## Technical Details
 
