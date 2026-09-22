@@ -28,13 +28,3 @@ Language: Python
 GUI Framework: PyQt5
 
 API: OpenWeatherMap
-
-## Timelines and Milestones:
-
-- Week 1: Basic Setup
-- Week 2: Build UI layout and core widgets
-- Week 3: Connect to OpenWeatherMap API and fetch data
-- Week 4: Implement weather display (temperature, description, emoji)
-- Week 5: Add error handling for API/network issues
-- Week 6: Style and polish UI (colors, layout, hover states)
-- Week 7: Testing, bug fixes, and deployment
