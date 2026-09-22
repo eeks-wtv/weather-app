@@ -1,8 +1,8 @@
 # Weather App
 
-## Introduction:
+## About:
 
-Made this weather for experience using API keys and related tasks
+Simple weather app made with python that takes weather data of requested city from open weather app and displays it.
 
 ## Technical Details
 
